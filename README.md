@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🌟 [徐晓萌] | 嵌入式开发者
+
+**🏫 教育背景**  
+`湖北工业大学·通信工程专业（2022-206）`  
+`主修课程：单片机原理、5G通信协议、C语言程序设计、宽带接入技术`
 
 <!--
-**Zaynie-xm/Zaynie-xm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**🔧 技术栈**  
+![技能图标](https://skillicons.dev/icons?i=c,linux,raspberrypi,arduino,git,md,python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| 领域           | 掌握技能                                                                 |
+|----------------|--------------------------------------------------------------------------|
+| **嵌入式开发** | STM32/FreeRTOS、传感器驱动开发、PCB设计（Altium Designer）               |
+| **通信协议**   | MQTT/CoAP、TCP/IP、5G NR物理层协议                                       |
+| **日语技术**   | JLPT N1（2024）、技术文档日汉互译（累计翻译5万字+）                      |
+
+## 🚀 精选项目
+
+### 1. [智能家居中控系统](项目链接)
+- **技术栈**: STM32F4 + ESP8266 + 阿里云IoT平台
+- **亮点**:  
+  ✅ 实现温湿度/光照数据采集与APP远程控制  
+  ✅ 日语版操作文档编写（[文档链接]）  
+  ✅ 低功耗设计（待机电流＜10μA）  
+
+### 2. [车载CAN总线协议分析仪](项目链接)
+- **技术栈**: Raspberry Pi 4 + Python + SocketCAN
+- **亮点**:  
+  ✅ 解析DENSO车载ECU数据帧（含日语协议逆向分析）  
+  ✅ 可视化数据仪表盘开发（Flask+Echarts）  
+  ✅ 获2023全国大学生电子设计竞赛湖北赛区二等奖  
+
+### 3. [中日5G技术对比研究](项目链接)
+- 编译日本总务省《情報通信白書》关键技术章节  
+- MATLAB仿真NSA/SA组网性能差异  
+- 被《移动通信》期刊收录（2024年第3期）  
+
+---
 -->
+
+## 📜 认证与成就
+- **华为认证**: HCIP-Datacom（2025） | HarmonyOS应用开发者高级认证 
+- **日语能力**: JLPT N2（备考中）  <!-- | 日本嵌入式技术博客译者（[专栏链接]）  -->
+- **竞赛奖项**:  湖北省第十三届“挑战杯”大学生创业计划竞赛铜奖
+
+- ## 🌐 与我联系
+[![邮箱](https://img.shields.io/badge/Email-你的邮箱-important?style=flat&logo=gmail)](mailto:xu_xiaomeng0518@163.com)  
+
+
+**📍 职业定位**: 寻求武汉嵌入式开发以及相关实习机会
