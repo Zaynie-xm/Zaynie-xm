@@ -43,7 +43,7 @@
 - **竞赛奖项**:  湖北省第十三届“挑战杯”大学生创业计划竞赛铜奖
 
 - ## 🌐 与我联系
-[![邮箱](https://img.shields.io/badge/Email-你的邮箱-important?style=flat&logo=gmail)](mailto:xu_xiaomeng0518@163.com)  
+[![邮箱](https://img.shields.io/badge/Email-xu_xiaomeng0518@163.com-important?style=flat&logo=gmail)](mailto:xu_xiaomeng0518@163.com)  
 
 
 **📍 职业定位**: 寻求武汉嵌入式开发以及相关实习机会
