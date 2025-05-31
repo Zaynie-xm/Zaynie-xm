@@ -45,5 +45,3 @@
 - ## 🌐 与我联系
 [![邮箱](https://img.shields.io/badge/Email-xu_xiaomeng0518@163.com-important?style=flat&logo=gmail)](mailto:xu_xiaomeng0518@163.com)  
 
-
-**📍 职业定位**: 寻求武汉嵌入式开发以及相关实习机会
