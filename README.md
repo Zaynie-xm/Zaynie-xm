@@ -7,6 +7,6 @@
 - **日语能力**: JLPT N2（备考中）  
 - **竞赛奖项**:  湖北省第十三届“挑战杯”大学生创业计划竞赛铜奖
 
-- ## 🌐 与我联系
+## 🌐 与我联系
 [![邮箱](https://img.shields.io/badge/Email-xu_xiaomeng0518@163.com-important?style=flat&logo=gmail)](mailto:xu_xiaomeng0518@163.com)  
 
